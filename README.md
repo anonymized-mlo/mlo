@@ -1,3 +1,3 @@
 MLO
 
-Multi-Stage Learning for Organizational Tie Valence Prediction
+A Multi-Stage Learning Model forPredicting Tie Valence in Organizations
